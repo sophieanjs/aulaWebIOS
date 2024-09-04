@@ -1,0 +1,6 @@
+sophiCarvalho - camelCase
+sophi_carvalho - snake_case
+SophiaCarvalho - Pascal case
+Sophia-carvalho - kebab case
+sophiacarvalho - Flat case
+SOPHIACARVALHO - UPPERCASE
